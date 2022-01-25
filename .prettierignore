@@ -1,5 +1,4 @@
 node_modules
-*.yml
 # Ignore artifacts:
 build
 coverage
